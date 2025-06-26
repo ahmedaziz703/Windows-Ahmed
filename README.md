@@ -139,7 +139,7 @@ If you spot a bug 🐞, want a new feature ✨, or simply improve the docs:
 ## License & Author
 
 * **License:** MIT – do with it what you will 🆓
-* **Author:** Dawid Olko
+* **Author:** Ahmed Al-regas
 
   * Portfolio [https://portfolio-orcin-seven-1mk53kxuyx.vercel.app/](https://portfolio-orcin-seven-1mk53kxuyx.vercel.app/)
   * GitHub: [https://github.com/ahmedaziz703](https://github.com/ahmedaziz703)
