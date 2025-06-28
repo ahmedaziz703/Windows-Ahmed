@@ -13,7 +13,7 @@ const user = {
   gitHub: "ahmedaziz703",
   twitter: "ahmedaziz703",
   aboutMe: {
-    intro: " I'm a Full Stack Software Development Engineer from Poland.",
+    intro: " I'm a Full Stack Software Development Engineer from Yemen.",
     description:
       "I enjoy taking up complex problems and converting to an usable format. My major domains are Web Development (React / Angular) and Software Development (Java / Python).",
     outro:
